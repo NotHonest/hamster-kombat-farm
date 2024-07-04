@@ -1,4 +1,4 @@
-Free Hamster Kombat Farming Bot | Hamster Kombat Auto Farm
+Free Hamster Kombat Farming Bot | Hamster Kombat Auto Farm 
 ---
 
 ![img.png](img.png)
